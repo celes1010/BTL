@@ -1,6 +1,6 @@
 # InsightPlus - "Stress-Detection-using-ML-and-Image-Processing-Techniques" 
 
-### Upgraded System Features:
+## Upgraded System Features:
 * to detect stress using vivid Machine learning and Image processing techniques
 * Incorporates live detection and personal counseling.
 * Performs periodic analysis of employees' stress levels.
