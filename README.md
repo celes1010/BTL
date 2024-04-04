@@ -11,7 +11,7 @@
 * Utilizes Machine Learning algorithms like KNN classifiers for stress classification.
 ## Image Processing Component:
 * Applied at the initial stage for stress detection.
-* Takes employee images as input.
+* Takes user images as input.
 * Converts images into digital form.
 * Performs operations for enhancing images and extracting useful information.
 * Output and Emotion Display:
@@ -19,8 +19,8 @@
 ## Displays emotions indicating stress levels (e.g., Angry, Disgusted, Fearful, Sad) in rounded boxes.
 
 ### Survey Form Integration: 
-Provides employees with periodic survey forms for stress assessment and management.
+Provides user with periodic survey forms for stress assessment and management.
 ### Objective:
-Aims to manage stress effectively and optimize employee performance during working hours.
+Aims to manage stress effectively and optimize user performance.
 
 
